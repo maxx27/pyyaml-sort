@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+/.idea/
+/.vscode/
+
+/.venv*/
+/venv*/
+
+# tmp files
+/tmp
+.DS_Store
+~$*
+.$*
+test_tmp.py
